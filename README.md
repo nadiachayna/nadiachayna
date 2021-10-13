@@ -8,7 +8,6 @@ Currently i specialize as a Front-end Developer at Laboratoria to create and opt
 
 <!-- Your badges -->
 📫 How to reach me:
-[<img src="https://img.shields.io/github/followers/nadiachayna?label=follow&style=social" height="22" title="Follow me" />](https://github.com/nadiachayna)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](link)
 [![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadia.chayna.q@gmail.com)
