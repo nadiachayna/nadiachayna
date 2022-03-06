@@ -50,7 +50,12 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
 </p>
 
+<a center" href="https://github.com/nadiachayna">
+  <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=nadiachayna&theme=bear&show_icons=true&count_private=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiachayna&layout=compact&theme=buefy)](https://github.com/nadiachayna/github-readme-stats)
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiachayna&layout=compact)](https://github.com/nadiachayna/github-readme-stats)
 
