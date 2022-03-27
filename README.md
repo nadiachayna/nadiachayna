@@ -2,15 +2,8 @@
 <h2>✨ Hi, I'm Nadia Chayna! ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--Introduction -->
-Currently i specialize as a Front-end Developer at Laboratoria to create and optimize interactive websites that are functional and intuitive, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
+Currently i specialize as a Front-end Developer to create and optimize interactive websites that are functional and intuitive, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 <br>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<!-- Your badges -->
-📫 How to reach me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](link)
-[![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadia.chayna.q@gmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=nadiachayna&&style=flat)
@@ -27,11 +20,8 @@ Currently i specialize as a Front-end Developer at Laboratoria to create and opt
 
 ### 🌱 Challenges that I’m currently challenging myself:
 ---
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
-
 * Learn to code 👩‍💻 3-4 hours a day with no distraction ( three or five day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
-* Workout 🚴‍♀ 3 days in a row and take a day break 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
 
@@ -60,6 +50,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
+
 **nadiachayna/nadiachayna** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -73,3 +64,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+<!-- Your badges -->
+📫 How to reach me:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](link)
+[![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadia.chayna.q@gmail.com)
+
