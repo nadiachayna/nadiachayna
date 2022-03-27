@@ -41,6 +41,19 @@ Currently i specialize as a Front-end Developer to create and optimize interacti
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiachayna&layout=compact)](https://github.com/nadiachayna/github-readme-stats)
 
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+<!-- Your badges 
+📫 How to reach me:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](link)
+[![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadia.chayna.q@gmail.com)
+
+
+
+
+
 <a center" href="https://github.com/nadiachayna">
   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=nadiachayna&theme=bear&show_icons=true&count_private=true" />
 
@@ -64,11 +77,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<!-- Your badges -->
-📫 How to reach me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](link)
-[![Gmail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadia.chayna.q@gmail.com)
 
