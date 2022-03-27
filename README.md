@@ -14,8 +14,7 @@ Currently i specialize as a Front-end Developer to create and optimize interacti
 
 ### 💼  Things that I'm currently working on: 
 ---
-* Learning Front-End Web:computer: Development at Laboratoria💛
-* Learning :art: desing by using Adobe Illustrator and Adobe Photoshop.
+* Learning :art: desing by using Adobe Illustrator.
 * Looking forward to take a  course of Python in future.
 
 ### 🌱 Challenges that I’m currently challenging myself:
