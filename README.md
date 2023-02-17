@@ -12,14 +12,8 @@ Currently i specialize as a Front-end Developer to create and optimize interacti
 <!-- Working GIF -->
 <img src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="dev_object" align="right" width="240" height="170" />
 
-### 💼  Things that I'm currently working on: 
----
-* Learning :art: desing by using Adobe Illustrator.
-* Looking forward to take a  course of Python in future.
-
 ### 🌱 Challenges that I’m currently challenging myself:
 ---
-* Learn to code 👩‍💻 3-4 hours a day with no distraction ( three or five day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
